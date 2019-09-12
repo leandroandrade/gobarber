@@ -1,0 +1,1 @@
+* inicializar conteiner postgres: docker run --name database -e POSTGRES_PASSWORD=docker POSTGRES_DB=gobarber -p 5432:5432 -d postgres
